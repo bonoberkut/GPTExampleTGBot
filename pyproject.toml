@@ -2,12 +2,11 @@
 name = "gptexampletgbot"
 version = "0.1.0"
 description = ""
-authors = ["alonso <voronchikhin123@mail.ru>"]
+authors = ["bono", "kanaok1"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-
 
 [build-system]
 requires = ["poetry-core"]
